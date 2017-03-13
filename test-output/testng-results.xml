@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="69215" started-at="2017-03-09T06:23:07Z" finished-at="2017-03-09T06:24:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="69215" started-at="2017-03-09T06:23:07Z" finished-at="2017-03-09T06:24:16Z">
+      <class name="testscripts.TestCase2">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testscripts.TestCase2@17c74e5]" name="beforeSuite" is-config="true" duration-ms="878" started-at="2017-03-09T11:53:06Z" finished-at="2017-03-09T11:53:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testscripts.TestCase2@17c74e5]" name="beforeTest" is-config="true" duration-ms="1" started-at="2017-03-09T11:53:07Z" finished-at="2017-03-09T11:53:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="setData()[pri:0, instance:testscripts.TestCase2@17c74e5]" name="setData" is-config="true" duration-ms="1" started-at="2017-03-09T11:53:07Z" finished-at="2017-03-09T11:53:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testscripts.TestCase2@17c74e5]" name="beforeMethod" is-config="true" duration-ms="19409" started-at="2017-03-09T11:53:08Z" finished-at="2017-03-09T11:53:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="entercustomerID(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testscripts.TestCase2@17c74e5]" name="entercustomerID" duration-ms="48529" started-at="2017-03-09T11:53:28Z" data-provider="fetchData" finished-at="2017-03-09T11:54:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[38408203]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jeeva@1987]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[229275]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[240120]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[240120]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Current]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[CITI0000003]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[ABC]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[abc@gmal.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entercustomerID -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testscripts.TestCase2@17c74e5]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-03-09T11:54:16Z" finished-at="2017-03-09T11:54:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testscripts.TestCase2@17c74e5]" name="afterTest" is-config="true" duration-ms="1" started-at="2017-03-09T11:54:16Z" finished-at="2017-03-09T11:54:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testscripts.TestCase2@17c74e5]" name="afterSuite" is-config="true" duration-ms="808" started-at="2017-03-09T11:54:16Z" finished-at="2017-03-09T11:54:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testscripts.TestCase2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

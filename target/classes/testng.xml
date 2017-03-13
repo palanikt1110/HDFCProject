@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HDFCSuite" parallel="none">
+  <test name="HDFCTest">
+    <classes>
+      <class name="testscripts.TestCase1"/>
+      <class name="testscripts.TestCase2"/>
+    </classes>
+  </test> <!-- HDFCTest -->
+</suite> <!-- HDFCSuite -->
